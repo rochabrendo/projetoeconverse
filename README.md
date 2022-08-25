@@ -1,8 +1,8 @@
 
-![image19](/projetovtex/src/components/Assets/vtex.png )
+![vtex](/src/components/Assets/vtex.png)
 
 ---
-![Vtex](/projetovtex/src/components/Assets/Vtex.gif)
+![Vtex](/src/components/Assets/Vtex.gif)
  
  ---
 
@@ -15,7 +15,7 @@
  
 
 ## Sobre
-O projeto **Vtex** é um **e-comerse** criado com o intuito de proporcionar aos seus clientes acessar informações de produtos e realizar compras sem precisar sair de casa, tudo isso com muita **praticidade** e **segurança**.
+Projeto desenvolvido para vaga de desenvolvedor front-end junior.
 
 ---
 
@@ -35,18 +35,15 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias.
  
 ```bash
 #Clonar o repositorio
-$ git clone https://github.com
+$ git clone https://github.com/rochabrendo/projetoeconverse.git
 #Acessar a pasta do projeto
-$ cd projetovtex
+$ cd projetoeconverse
 #instalar as dependencias
 $ npm install
-#iniciar o projeto
-$ npm start
 ```
 ## Como iniciar o projeto
 ```bash
-$ Abrir a pasta Econverse Vtex Teste
-# Abrir o terminal e iniciar o servidor API db.json dentro da pasta data.
+# Abrir o terminal e rodar o servidor API db.json dentro da pasta data.
 $ npm run server
 #iniciar o projeto em APP.js.
 $ npm start
